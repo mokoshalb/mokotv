@@ -1,0 +1,36 @@
+apply plugin: 'com.android.library'
+
+dependencies {
+    implementation 'androidx.media:media:1.0.1'
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation project(":app:libs:avloading")
+
+    // ExoPlayer
+    api "com.google.android.exoplayer:exoplayer-core:$rootProject.ext.exoPlayerVersion"
+    api "com.google.android.exoplayer:exoplayer-dash:$rootProject.ext.exoPlayerVersion"
+    api "com.google.android.exoplayer:exoplayer-hls:$rootProject.ext.exoPlayerVersion"
+    api "com.google.android.exoplayer:exoplayer-smoothstreaming:$rootProject.ext.exoPlayerVersion"
+}
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1"
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+    buildTypes {
+        release {}
+    }
+}

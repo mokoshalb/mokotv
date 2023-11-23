@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Moko TV</string>
+    <string name="tab_recent">Home</string>
+    <string name="tab_category">Category</string>
+    <string name="error_player">There was an error initializing the YouTube Player (%1$s)</string>
+    <string name="admob_publisher_id">pub-7256385246802439</string>
+    <string name="admob_app_id">ca-app-pub-7256385246802439~8545856319</string>
+    <string name="admob_banner_unit_id">ca-app-pub-7256385246802439/7349104968</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-7256385246802439/6358676673</string>
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_update">Check Update</string>
+    <string name="drawer_share">Share</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_donate">Donate</string>
+    <string name="drawer_request">Request</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="about_app_name">Application Name</string>
+    <string name="about_app_version">Build Version</string>
+    <string name="about_app_email">Email</string>
+    <string name="about_app_copyright">Copyright</string>
+    <string name="about_app_privacy_policy">Terms of Service</string>
+    <string name="sub_about_app_version">Version 2.0.6</string>
+    <string name="sub_about_app_email">support@mokolivestream.com</string>
+    <string name="sub_about_app_copyright">Copyright &#169; 2019 Moko TV\nAll rights reserved</string>
+    <string name="sub_about_app_privacy_policy">Terms of Service of Moko TV</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search&#8230;</string>
+    <string name="share">Share</string>
+    <string name="share_title">I am watching</string>
+    <string name="share_content">I would love to share this great live sport streaming app with you. You can download this app with this link.</string>
+    <string name="failed_text">Failed to find internet connection</string>
+    <string name="no_internet_text">No Internet Connection!</string>
+    <string name="network_required">Internet connection is required to watch a live stream.</string>
+    <string name="no_category_found">Oops, No Category Found!</string>
+    <string name="no_post_found">Oops, No Stream Found!</string>
+    <string name="msg_search_input">Please insert a keyword</string>
+    <string name="press_again_to_exit">Press back again to exit app</string>
+    <string name="privacy_policy_title">Terms Of Service</string>
+    <string name="privacy_policy_content">
+        <![CDATA[
+            <p>Moko TV does not host any video on this app. All videos found on this app are found freely on the net.</p>
+            <br>
+            <p>We make no guarantees or promises in our services to take responsibilities of the app users.</p>
+            <br>
+            <p>We are not affiliated with any of the owners of videos/streams played on this app. All content is copyright of their respective owners.</p>
+            <br>
+            <p>We are not just a web interface where you can watch live streams worldwide.</p>
+            <br>
+            <p>We urge all copyright owners to recognize that the streams contained within this app can be found somewhere else on the net.</p>
+            <br>
+            <p>The embedded links points to the location of the video on the web. Please direct all your copyright infringement issues to the companies that host this streams.</p>
+        ]]>
+    </string>
+    <string name="no_item_found">No Item Found</string>
+    <string name="report_channel">Report Stream</string>
+    <string name="commend_channel">Commend Stream</string>
+    <string name="stream_category">Stream Category</string>
+    <string name="live_stream_title">Live Stream Title</string>
+    <string name="overview">Overview:</string>
+    <string name="title_send_report">Report Stream</string>
+    <string name="hint_input_name">Name</string>
+    <string name="hint_input_email">Email</string>
+    <string name="hint_input_comment">Brief Description</string>
+    <string name="comments_bottom_message">Your report will be checked and the issue will be fixed shortly.</string>
+    <string name="bt_submit">Submit</string>
+    <string name="invalid_name">Invalid Name</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="task_running_msg">Oops, Still Processing&#8230;</string>
+    <string name="failed_text_comment">Failed To Send Report. Please Try Again</string>
+    <string name="no_internet_text_comment">No internet connection. Connect and try again</string>
+    <string name="invalid_report">Invalid Description</string>
+    <string name="send_report_success">Success</string>
+    <string name="send_report_failure">Failed</string>
+    <string name="title_home">Home</string>
+    <string name="pref_title_notif">Push Notification</string>
+    <string name="activity_title_settings">Settings</string>
+    <string name="show_network_meter">Speed Meter</string>
+    <string name="title_send_commend">Commend Stream</string>
+    <string name="comments_bottom_message_commend">Your nice words of encouragements will help us provide better match streams.</string>
+    <string name="donation_paypal_item">Donation</string>
+    <string name="donations__button_close">Close</string>
+    <string name="donations__description">Do you find this application useful?\nSupport its development by sending a donation to the developer :)</string>
+    <string name="donations__google_android_market_donate_button">PayPal</string>
+    <string name="donations__paypal">PayPal</string>
+    <string name="donations__paypal_description">You can choose how much you want to donate after clicking the button!</string>
+    <string name="donations__thanks_dialog_title">Thanks!</string>
+    <string name="donations__thanks_dialog">Thanks for donating!\nI really appreciate this! :)</string>
+    <string name="donations__alert_dialog_title">An error occurred :(</string>
+    <string name="donations__alert_dialog_no_browser">No browser was found to open PayPal.</string>
+    <string name="donations__bitcoin">Bitcoin</string>
+    <string name="donations__bitcoin_description">Donate any amount of Bitcoin to the developer. Press and hold button to copy address.</string>
+    <string name="donations__bitcoin_send_bitcoin_button">Bitcoin</string>
+    <string name="donations__bitcoin_toast_copy">Bitcoin address has been copied to the clipboard!</string>
+    <string name="title_send_request">Request For Stream</string>
+    <string name="comments_bottom_message_request">State in details; the versus, time and category of the stream to be requested.</string>
+    <string name="about_app_web">Website</string>
+    <string name="sub_about_app_url">https://mokolivestream.com</string>
+    <string name="drawer_category">Category</string>
+    <string name="about_app_telegram">Telegram</string>
+    <string name="sub_about_join_telegram">Join Our Telegram Group</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="retry">Retry</string>
+    <string name="drawer_iptv">IPTV</string>
+    <string name="iptv">IPTV</string>
+    <string name="casty_introduction_text">Use this button to connect with Chromecast</string>
+    <string name="privacy_policy_url">https://mokolivestream.com/</string>
+    <string name="action_settings">Chat Settings</string>
+    <string name="drawer_chatroom">Chat Room</string>
+    <string name="type_to_compose">Compose a message&#8230;</string>
+    <string name="send">Send</string>
+    <string name="pref_title_username">Username</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="edit">Edit</string>
+    <string name="drawer_rate">Rate</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Moko TV.iml" filepath="$PROJECT_DIR$/Moko TV.iml" group="Moko TV" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/android-auto-update/android-auto-update.iml" filepath="$PROJECT_DIR$/app/libs/android-auto-update/android-auto-update.iml" group="Moko TV/app/libs/android-auto-update" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Moko TV/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/avloading/avloading.iml" filepath="$PROJECT_DIR$/app/libs/avloading/avloading.iml" group="Moko TV/app/libs/avloading" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/elasticdownload/elasticdownload.iml" filepath="$PROJECT_DIR$/app/libs/elasticdownload/elasticdownload.iml" group="Moko TV/app/libs/elasticdownload" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/exomedia/exomedia.iml" filepath="$PROJECT_DIR$/app/libs/exomedia/exomedia.iml" group="Moko TV/app/libs/exomedia" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/libs.iml" filepath="$PROJECT_DIR$/app/libs/libs.iml" group="Moko TV/app/libs" />
+    </modules>
+  </component>
+</project>

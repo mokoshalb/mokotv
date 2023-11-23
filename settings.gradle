@@ -1,0 +1,1 @@
+include ':app', ':app:libs:android-auto-update' , ':app:libs:exomedia', ':app:libs:elasticdownload', ':app:libs:avloading'

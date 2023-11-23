@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.droidsonroids:casty:1.0.8@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05847867d3b5f88a4ba82db1d542c949/jetified-casty-1.0.8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05847867d3b5f88a4ba82db1d542c949/jetified-casty-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05847867d3b5f88a4ba82db1d542c949/jetified-casty-1.0.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.droidsonroids/casty/1.0.8/5764849a9e503298d44a938b0d95d641a753667d/casty-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.droidsonroids/casty/1.0.8/7584c928e2cb85f82a908db7f2719b2dc702b980/casty-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

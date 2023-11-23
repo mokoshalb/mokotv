@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="RoundedImageView">
+    <attr name="corner_radius" format="dimension" />
+    <attr name="border_width" format="dimension" />
+    <attr name="border_color" format="color" />
+    <attr name="round_background" format="boolean" />
+    <attr name="is_oval" format="boolean" />
+    <attr name="android:scaleType" />
+  </declare-styleable>
+  <string-array name="UsernameColor">
+    <item>#ff0000</item>
+    <item>#EF8762</item>
+    <item>#7CB342</item>
+    <item>#5677fc</item>
+    <item>#673ab7</item>
+    <item>#8A7A6B</item>
+    <item>#00FFFF</item>
+    <item>#FF00FF</item>
+    <item>#FFFF00</item>
+    <item>#00FF00</item>
+  </string-array>
+</resources>
